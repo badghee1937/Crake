@@ -1,0 +1,3 @@
+[submodule "CrisMPC"]
+	path = CrisMPC
+	url = git@github.com:Bhavishrg/CRiS-MPC.git
